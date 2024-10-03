@@ -4,8 +4,13 @@ body {
   margin-left: auto;
   margin-right: auto;
   background: url(../img/sfondo.png);
+  font-family: "poppins";
 }
-
+h1 {
+  font-size: 1.3em;
+  font-weight: 200px;
+  color: white;
+}
 /* HEADER */
 header {
   background-color: rgb(22, 148, 148);
@@ -15,6 +20,10 @@ header {
 }
 #logo {
   size: 150px;
+}
+h1 {
+  font-size: 2em;
+  font-weight: 600;
 }
 /* MAIN */
 main {
